@@ -150,5 +150,5 @@ function addTask() {
 }
 ```
 ### Output
-![Screenshot (46)](https://github.com/Amrish-K/to-do-list/assets/130633944/acd55350-ebdb-4573-bfb6-827b43ef9272)
+![Screenshot 2024-07-13 092224](https://github.com/user-attachments/assets/83458589-e206-4ed1-8df2-661d09e98fb7)
 
